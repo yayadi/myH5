@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>给你的诗歌</title>
+    <style type="text/css">
+        body{
+            background-image:url("./image/ai.jpg");
+            background-size: 100% 100%;
+            height: 100%;
+        }
+        html{
+            height: 100%;
+        }
+        @keyframes myfirst {
+            0%{opacity: 0}
+            50%{opacity: 100}
+            75%{opacity: 0}
+            100%{opacity: 0}
+        }
+        @keyframes mysecond {
+            0%{opacity: 0}
+            50%{opacity: 0}
+            75%{opacity: 0}
+            100%{opacity:100}
+        }
+       p{
+           font-size: 35px;
+           position: absolute;
+           width: 100%;
+           text-align: center;
+
+        }
+        #ni{animation: myfirst 6s infinite;}
+        #zu{animation: mysecond 5s infinite;}
+    </style>
+</head>
+<body>
+
+<audio  src="wav/jiageiwo.wav" controls="controls" >
+</audio>
+
+<p id="ni">你的一切都是独一无二的，</p>
+<p id="zu">足以让我倾心于此。</p>
+</body>
+</html>
