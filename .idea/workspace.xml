@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c13362f8-f6d6-4296-9b12-b979b5bb77f8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/001BAsics/page.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -33,11 +34,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/001BAsics/animation.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="483">
               <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/001BAsics/siji.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+              <folding>
+                <element signature="n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/001BAsics/css/page.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -48,6 +70,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -61,6 +84,10 @@
         <option value="$PROJECT_DIR$/001BAsics/index.html" />
         <option value="$PROJECT_DIR$/001BAsics/biaobai.html" />
         <option value="$PROJECT_DIR$/001BAsics/animation.html" />
+        <option value="$PROJECT_DIR$/001BAsics/css/page.html" />
+        <option value="$PROJECT_DIR$/001BAsics/page.css" />
+        <option value="$PROJECT_DIR$/001BAsics/siji.html" />
+        <option value="$PROJECT_DIR$/001BAsics/css/page.css" />
       </list>
     </option>
   </component>
@@ -91,6 +118,24 @@
               <item name="myH5" type="462c0819:PsiDirectoryNode" />
               <item name="001BAsics" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="myH5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myH5" type="462c0819:PsiDirectoryNode" />
+              <item name="001BAsics" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myH5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myH5" type="462c0819:PsiDirectoryNode" />
+              <item name="001BAsics" type="462c0819:PsiDirectoryNode" />
+              <item name="image" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myH5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myH5" type="462c0819:PsiDirectoryNode" />
+              <item name="001BAsics" type="462c0819:PsiDirectoryNode" />
+              <item name="wav" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -102,9 +147,10 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/001BAsics" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -138,7 +184,7 @@
       <workItem from="1599790410827" duration="3272000" />
       <workItem from="1599804076595" duration="3830000" />
       <workItem from="1599808562970" duration="5223000" />
-      <workItem from="1599875700175" duration="2920000" />
+      <workItem from="1599875700175" duration="9466000" />
     </task>
     <task id="LOCAL-00001" summary="modify">
       <created>1599699623734</created>
@@ -259,14 +305,22 @@
       <option name="project" value="LOCAL" />
       <updated>1599880973167</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="modify">
+      <created>1599881166094</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1599881166094</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20615000" />
+    <option name="totallyTimeSpent" value="27161000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13530655" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -312,10 +366,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/001BAsics/css/page.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001BAsics/page.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/001BAsics/animation.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
           <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001BAsics/css/page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001BAsics/siji.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding>
+            <element signature="n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
