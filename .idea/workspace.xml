@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c13362f8-f6d6-4296-9b12-b979b5bb77f8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001BAsics/biaobai.html" beforeDir="false" afterPath="$PROJECT_DIR$/001BAsics/biaobai.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -87,6 +86,11 @@
               <item name="myH5" type="b2602c69:ProjectViewProjectNode" />
               <item name="myH5" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="myH5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myH5" type="462c0819:PsiDirectoryNode" />
+              <item name="001BAsics" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -134,7 +138,7 @@
       <workItem from="1599790410827" duration="3272000" />
       <workItem from="1599804076595" duration="3830000" />
       <workItem from="1599808562970" duration="5223000" />
-      <workItem from="1599875700175" duration="2730000" />
+      <workItem from="1599875700175" duration="2920000" />
     </task>
     <task id="LOCAL-00001" summary="modify">
       <created>1599699623734</created>
@@ -248,11 +252,18 @@
       <option name="project" value="LOCAL" />
       <updated>1599812783439</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="modify">
+      <created>1599880973167</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1599880973167</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20425000" />
+    <option name="totallyTimeSpent" value="20615000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
